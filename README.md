@@ -2,24 +2,17 @@
 
 <p align="center">
   <strong>Software Engineer · Backend & Data Engineering</strong><br/>
-  Python · Django · PostgreSQL · Airflow · Docker
 </p>
 
 <p align="center">
   <a href="https://adobyy.github.io/resume/">
     <img src="https://img.shields.io/badge/Resume-111827?style=flat-square" alt="Resume" />
   </a>
-  <a href="https://adobyy.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-111827?style=flat-square" alt="Portfolio" />
-  </a>
   <a href="https://www.linkedin.com/in/bohdan-yarinko-338816269/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://pas-core.com/">
     <img src="https://img.shields.io/badge/Pascore-111827?style=flat-square" alt="Pascore" />
-  </a>
-  <a href="https://medium.com/@adoby">
-    <img src="https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white" alt="Medium" />
   </a>
 </p>
 
@@ -34,7 +27,7 @@ My work sits between **software engineering, data engineering, and infrastructur
 - Design ETL/ELT pipelines and data models with **Airflow, dbt, DuckDB, and SQL**
 - Build asynchronous processing, search, and integrations with **Redis, Celery, and Meilisearch**
 - Deploy and operate systems with **Docker, Linux, Terraform/OpenTofu, Ansible, and GitHub Actions**
-- Currently building **[Pascore](https://pas-core.com/)** — Product Data Automation for B2B Commerce
+- Currently building **[Pascore](https://pas-core.com/)** — Product Data Automation System for B2B Commerce
 
 ## Core stack
 
@@ -62,30 +55,32 @@ Machine learning and computer vision with PyTorch, TensorFlow, scikit-learn, Num
 ## Professional work
 
 ### [Engineering Resume](https://adobyy.github.io/resume/)
-Detailed overview of my backend, data, ecommerce, infrastructure, and architecture work.
+Backend engineering, data platforms, ecommerce systems, infrastructure, and architecture.
 
 ### [Pascore](https://pas-core.com/)
-Product-data automation platform for supplier data, catalog management, pricing, integrations, and B2B commerce.
+Product Data Automation for B2B Commerce.
 
-## Selected public projects
+Platform architecture, backend development, supplier data ingestion, configurable pricing, APIs, deployment, observability, and B2B storefronts.
 
-Most of my current production work is private. These repositories showcase selected public projects and earlier data/ML work.
+### [Euro Parts](https://euro-parts.com.ua/)
+B2B ecommerce platform for large product catalogs, pricing, search, integrations, and automated product-data workflows.
 
-### [Telegram Chat Analyzer](https://github.com/AdobyY/Telegram-chat-analyzer)
-Interactive analytics application built with Streamlit, Pandas, and Plotly.
+### [FindTechSupply](https://findtechsupply.com/)
+B2B technology supply platform focused on structured product data, catalog search, pricing, and ecommerce operations.
 
-Includes activity analysis, message statistics, media insights, filtering, and exportable reports.
+## Engineering focus
 
-[Live demo](https://telegram-chat-analyzer.streamlit.app/)
+**Backend**  
+Python services, Django, REST APIs, PostgreSQL, Redis, Celery
 
-### [Image Classification System](https://github.com/AdobyY/ImageClassificationSystem)
-Web application for model management, image classification, batch analysis, and saliency-map visualization.
+**Data**  
+ETL/ELT pipelines, Airflow, dbt, DuckDB, SQL, supplier integrations
 
-### [Airbus Ship Detection](https://github.com/AdobyY/Airbus-Ship-Detection)
-Semantic segmentation project using U-Net to detect ships in aerial imagery.
+**Systems**  
+Product data platforms, pricing engines, search, ecommerce, automation
 
-### [Product Scraper](https://github.com/AdobyY/itel-product-scraper)
-Python-based product-data extraction and structured Excel export.
+**Platform**  
+Docker, Linux, CI/CD, Terraform/OpenTofu, Ansible, monitoring
 
 ## GitHub activity
 
