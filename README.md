@@ -81,20 +81,3 @@ Product data platforms, pricing engines, search, ecommerce, automation
 
 **Platform**  
 Docker, Linux, CI/CD, Terraform/OpenTofu, Ansible, monitoring
-
-## GitHub activity
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdobyY&theme=github_dark"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdobyY&theme=github"
-  />
-  <img
-    alt="GitHub profile activity"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdobyY&theme=github"
-  />
-</picture>
