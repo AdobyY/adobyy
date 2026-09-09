@@ -1,34 +1,105 @@
-# 🌐 Socials:
-[![Portfolio](https://img.shields.io/badge/Personal-Blog-blue)](https://adobyy.github.io/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@adoby) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bohdan-yarinko-338816269)  
+<h1 align="center">Bohdan Yarinko</h1>
 
+<p align="center">
+  <strong>Software Engineer · Backend & Data Engineering</strong><br/>
+  Python · Django · PostgreSQL · Airflow · Docker
+</p>
 
-# 💻 Tech Stack:
- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
- ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
- ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
- ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
- ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)  ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
- ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
- ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+<p align="center">
+  <a href="https://adobyy.github.io/resume/">
+    <img src="https://img.shields.io/badge/Resume-111827?style=flat-square" alt="Resume" />
+  </a>
+  <a href="https://adobyy.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-111827?style=flat-square" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/bohdan-yarinko-338816269/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://pas-core.com/">
+    <img src="https://img.shields.io/badge/Pascore-111827?style=flat-square" alt="Pascore" />
+  </a>
+  <a href="https://medium.com/@adoby">
+    <img src="https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white" alt="Medium" />
+  </a>
+</p>
 
-<!--
-**AdobyY/adobyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+I build production backend and data systems for large product catalogs, pricing, integrations, and B2B commerce.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My work sits between **software engineering, data engineering, and infrastructure** — from ingestion pipelines and APIs to deployment, monitoring, and production troubleshooting.
+
+- Work with production data workflows covering **2–3M products** and **10M+ price records**
+- Build backend services and APIs with **Python, Django, Django REST Framework, and PostgreSQL**
+- Design ETL/ELT pipelines and data models with **Airflow, dbt, DuckDB, and SQL**
+- Build asynchronous processing, search, and integrations with **Redis, Celery, and Meilisearch**
+- Deploy and operate systems with **Docker, Linux, Terraform/OpenTofu, Ansible, and GitHub Actions**
+- Currently building **[Pascore](https://pas-core.com/)** — Product Data Automation for B2B Commerce
+
+## Core stack
+
+**Backend**  
+Python · Django · Django REST Framework · PostgreSQL · Redis · Celery
+
+**Data**  
+SQL · Apache Airflow · dbt · DuckDB · Pandas
+
+**Platform**  
+Docker · Linux · GitHub Actions · Terraform/OpenTofu · Ansible
+
+**Search & Web**  
+Meilisearch · React · TypeScript
+
+<details>
+<summary><strong>Additional experience</strong></summary>
+
+<br/>
+
+Machine learning and computer vision with PyTorch, TensorFlow, scikit-learn, NumPy, and related Python tooling.
+
+</details>
+
+## Professional work
+
+### [Engineering Resume](https://adobyy.github.io/resume/)
+Detailed overview of my backend, data, ecommerce, infrastructure, and architecture work.
+
+### [Pascore](https://pas-core.com/)
+Product-data automation platform for supplier data, catalog management, pricing, integrations, and B2B commerce.
+
+## Selected public projects
+
+Most of my current production work is private. These repositories showcase selected public projects and earlier data/ML work.
+
+### [Telegram Chat Analyzer](https://github.com/AdobyY/Telegram-chat-analyzer)
+Interactive analytics application built with Streamlit, Pandas, and Plotly.
+
+Includes activity analysis, message statistics, media insights, filtering, and exportable reports.
+
+[Live demo](https://telegram-chat-analyzer.streamlit.app/)
+
+### [Image Classification System](https://github.com/AdobyY/ImageClassificationSystem)
+Web application for model management, image classification, batch analysis, and saliency-map visualization.
+
+### [Airbus Ship Detection](https://github.com/AdobyY/Airbus-Ship-Detection)
+Semantic segmentation project using U-Net to detect ships in aerial imagery.
+
+### [Product Scraper](https://github.com/AdobyY/itel-product-scraper)
+Python-based product-data extraction and structured Excel export.
+
+## GitHub activity
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdobyY/adobyy/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AdobyY/adobyy/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/AdobyY/adobyy/output/github-snake.svg" />
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdobyY&theme=github_dark"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdobyY&theme=github"
+  />
+  <img
+    alt="GitHub profile activity"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdobyY&theme=github"
+  />
 </picture>
